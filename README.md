@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Iam Rishi [He/Him], from city Indore. I work primarily in **Artificial Intelligence and Machine Learning**, with a strong focus on  
+I'am Rishi [He/Him], from city Indore. I work primarily in **Artificial Intelligence and Machine Learning**, with a strong focus on  
 **model architectures, representation learning and applied AI systems**.
 While AI/ML is my core domain, I also actively work across **project management & methodologies such as Agile, Scrum, and Kanban** and **content writing**.
 
@@ -95,7 +95,7 @@ While AI/ML is my core domain, I also actively work across **project management 
 ---
 
 ## 🧠 Philosophy
-The world is a board of choices; Just play to rebuild it not to linger around.
+The world is a board of choices; Just play to rebuild it, not to linger around.
 
 ---
 
