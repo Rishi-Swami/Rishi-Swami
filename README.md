@@ -95,7 +95,7 @@ While AI/ML is my core domain, I also actively work across **project management 
 ---
 
 ## 🧠 Philosophy
-The world is a board of choices; Just play to rebuild it, not to linger around.
+“I don’t believe in ‘starting small’ or ‘failing forward’ for things that matter. If a goal is precious, every step of acquiring it must be precious—without compromise.”
 
 ---
 
